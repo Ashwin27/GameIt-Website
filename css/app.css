@@ -7295,5 +7295,7 @@ html, body {
 }
 
 #comingsoon{
-	z-index:4
+	z-index:4;
+	background-color: orange;
+	height:510px;
 }
