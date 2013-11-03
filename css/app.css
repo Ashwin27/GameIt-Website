@@ -7262,6 +7262,7 @@ html, body {
   padding-top: 173px;
   padding-left: 145px;
   background-size: 100%;
+  position:relative;
 }
 
 /* line 41, ../sass/_custom.scss */
@@ -7291,4 +7292,8 @@ html, body {
 /* line 64, ../sass/_custom.scss */
 .columns .orange_back a {
   color: #fff;
+}
+
+#comingsoon{
+	z-index:4
 }
