@@ -7256,7 +7256,7 @@ html, body {
 
 /* line 31, ../sass/_custom.scss */
 .iphone {
-  background: url("../../img/backgrounds/phone.png");
+  background: url("../img/backgrounds/phone.png");
   width: 820px;
   height: 1006px;
   padding-top: 173px;
